@@ -1,0 +1,11 @@
+{
+  "name": "verbalize",
+  "version": "0.1.0",
+  "description": "曖昧な違和感を構造化された問いに変換する言語化スキル(verbalize)と、その出力を入力として問の定義→工程構築→実行→評価のPDCAサイクルを自律的に回すメタフレームワーク(pdca-meta)をセットで提供するプラグイン。",
+  "author": {
+    "name": "makotan",
+    "email": "makotan@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["verbalize", "pdca", "言語化", "問いの構造化", "メタフレームワーク", "思考整理", "問題解決"]
+}

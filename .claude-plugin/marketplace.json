@@ -1,0 +1,17 @@
+{
+  "name": "verbalize-marketplace",
+  "description": "言語化スキルとPDCAメタフレームワークを束ねたverbalizeプラグインを提供するマーケットプレイス",
+  "owner": {
+    "name": "makotan",
+    "email": "makotan@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "verbalize",
+      "source": "./plugins/verbalize",
+      "description": "曖昧な違和感を構造化された問いに変換する言語化スキル(verbalize)と、その出力からPDCAサイクルを自律的に回すメタフレームワーク(pdca-meta)をセットで提供するプラグイン",
+      "category": "thinking",
+      "keywords": ["verbalize", "pdca", "言語化", "問いの構造化", "メタフレームワーク", "思考整理"]
+    }
+  ]
+}
